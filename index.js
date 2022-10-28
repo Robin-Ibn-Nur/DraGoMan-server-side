@@ -9,7 +9,7 @@ const Port = process.env.PORT || 5000;
 const languageCollection = require('./data/courses.json')
 
 app.get('/', (req, res) => {
-    res.send('server runnig')
+    res.send('erver runnig')
 })
 
 app.get('/courses', (req, res) => {
