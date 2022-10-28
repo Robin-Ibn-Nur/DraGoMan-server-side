@@ -14,17 +14,13 @@ app.get('/', (req, res) => {
 
 app.get('/courses', (req, res) => {
     res.send(languageCollection);
-    // console.log(languageCollection);
 })
 
 app.get('/course/:id', (req, res) => {
     const id = req.params?.id;
     const selectedCourse = languageCollection?.find(c => c.id == id)
-    // console.log(selectedCourse);
     res.send(selectedCourse)
 })
-
-
 
 app.listen(Port, () => {
     console.log('server is running on port', Port)
