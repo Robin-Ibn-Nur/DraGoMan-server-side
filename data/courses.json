@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Bangla-বাংলা",
+        "image": "https://bestanimations.com/media/bangladesh/479124179bangladesh-flag-waving-gif-animation-12.gif",
+        "Description": "Bengali, also known by its endonym Bangla, is an Indo-Aryan language primarily spoken by the Bengalis in South Asia, specifically in the eastern part of the Indian subcontinent, presently divided between Bangladesh and the Indian states of West Bengal, Tripura, Assam's Barak Valley"
+    },
+    {
+        "id": 2,
+        "name": "English",
+        "image": "https://cdn.dribbble.com/users/1592949/screenshots/3606765/united-kingdom.gif",
+        "Description": "English is a West Germanic language of the Indo-European language family, with its earliest forms spoken by the inhabitants of early medieval England. It is named after the Angles, one of the ancient Germanic peoples that migrated to the island of Great Britain."
+    },
+    {
+        "id": 3,
+        "name": "Spanish-español",
+        "image": "https://bestanimations.com/media/spain/1831277078spanish-flag-waving-animated-gif-9.gif",
+        "Description": "Spanish is a Romance language of the Indo-European language family that evolved from colloquial Latin spoken in the Iberian Peninsula of Europe. Today, it is a global language with more than 500 million native speakers, mainly in the Americas and Spain. Spanish is the official language of 20 countries."
+    },
+    {
+        "id": 4,
+        "name": "Hindi-हिन्दी",
+        "image": "https://4.bp.blogspot.com/-C9RO7uxF_eA/XtlUEpA3C2I/AAAAAAAA12Q/tOrCvs1H45o2U2IcfMpi5FvHS23d01JqwCLcBGAsYHQ/s1600/India_flag_with_emblem.gif",
+        "Description": "Hindi, or more precisely Modern Standard Hindi, is an Indo-Aryan language spoken chiefly in the Hindi Belt region encompassing parts of northern, central, eastern, and western India. Hindi has been described as a standardised and Sanskritised register of the Hindustani language, which itself is based primarily on the Khariboli dialect of Delhi and neighbouring areas of North India"
+    },
+    {
+        "id": 5,
+        "name": "Japanese-日本",
+        "image": "https://downloadhdwallpapers.in/wp-content/uploads/2018/06/Japan-Flag-Waving-Animated-Gif-Super-.gif",
+        "Description": "Japanese is spoken natively by about 128 million people, primarily by Japanese people and primarily in Japan, the only country where it is the national language. Japanese belongs to the Japonic or Japanese-Ryukyuan language family."
+    },
+    {
+        "id": 6,
+        "name": "Korean-한국인",
+        "image": "https://i.gifer.com/origin/18/18f334d633170a90a194c9925b36e1ed.gif",
+        "Description": "Korean is the native language for about 80 million people, mostly of Korean descent. It is the official and national language of both North Korea and South Korea, but over the past 74 years of political division, the two Koreas have developed some noticeable vocabulary differences."
+    }
+]
